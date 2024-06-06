@@ -1,0 +1,26 @@
+.carousel-caption{
+    position:absolute;
+    top:150px;
+    left:50px;
+    color: black;
+}
+.contentphoto{
+    list-style: none;
+}
+.lastfourcontent{
+    background-color:#B3E2A7;
+}
+.bi{
+    color:limegreen;
+}
+.imagecon{
+    height: 500px;
+    width:500px;
+}
+.nav1 .navbar{
+    background-color:#B3E2A7;
+    opacity: .9;
+}
+.nav1 .navbrand{
+ color: #538392;
+}
